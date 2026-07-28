@@ -2,44 +2,12 @@
   {
     "place": 1,
     "name": "level name1",
-    "author": "no",
-    "verifier": "me",
-    "id": "12345678",
-    "youtube": "65RJQig1tZc",
-    "points": 1,
+    "author": "MindCap",
+    "verifier": "BGram",
+    "id": "86084399",
+    "youtube": "kXYMbaMVOZg",
+    "points": 1000,
     "victors": [
-      "myszon=https://www.youtube.com/watch?v=MHcoMqO1du0",
-      "myszd=https://www.youtube.com/watch?v=MHcoMqO1du0"
     ]
-  },
-  {
-    "place": 2,
-    "name": "level name2",
-    "author": "no",
-    "verifier": "me",
-    "id": "12345678",
-    "youtube": "65RJQig1tZc",
-    "points": 1,
-    "victors": []
-  },
-  {
-    "place": 3,
-    "name": "level name3",
-    "author": "no",
-    "verifier": "me",
-    "id": "12345678",
-    "youtube": "65RJQig1tZc",
-    "points": 1,
-    "victors": []
-  },
-  {
-    "place": 4,
-    "name": "level name4",
-    "author": "no",
-    "verifier": "me",
-    "id": "12345678",
-    "youtube": "65RJQig1tZc",
-    "points": 1,
-    "victors": []
   }
 ]
